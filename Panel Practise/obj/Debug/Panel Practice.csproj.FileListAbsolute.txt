@@ -1,0 +1,8 @@
+H:\Students_Folder\Grant Malone\Coding\Visual Studio Assets\Panel Practise\Panel Practise\obj\Debug\Panel Practice.csproj.AssemblyReference.cache
+H:\Students_Folder\Grant Malone\Coding\Visual Studio Assets\Panel Practise\Panel Practise\obj\Debug\Panel Practice.csproj.SuggestedBindingRedirects.cache
+H:\Students_Folder\Grant Malone\Coding\Visual Studio Assets\Panel Practise\Panel Practise\obj\Debug\Panel_Practise.Form1.resources
+H:\Students_Folder\Grant Malone\Coding\Visual Studio Assets\Panel Practise\Panel Practise\obj\Debug\Panel_Practise.Properties.Resources.resources
+H:\Students_Folder\Grant Malone\Coding\Visual Studio Assets\Panel Practise\Panel Practise\obj\Debug\Panel Practice.csproj.GenerateResource.cache
+H:\Students_Folder\Grant Malone\Coding\Visual Studio Assets\Panel Practise\Panel Practise\obj\Debug\Panel Practice.csproj.CoreCompileInputs.cache
+H:\Students_Folder\Grant Malone\Coding\Visual Studio Assets\Panel Practise\Panel Practise\obj\Debug\Panel Practise.exe
+H:\Students_Folder\Grant Malone\Coding\Visual Studio Assets\Panel Practise\Panel Practise\obj\Debug\Panel Practise.pdb
